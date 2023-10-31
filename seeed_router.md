@@ -3,5 +3,5 @@ QTY : 2
 
 | router number | auth details |
 | -------- | -------- |
-| 2/2 | user:root\npwd:1234\nwireless\nssid:ESWS_CERT\npwd:EsWs@@CERT|
-| 1/2 | user:root pwd:OpenWrt@@2022 |
+| 2/2 | user:root<br>pwd:1234<br>wireless<br>ssid:ESWS_CERT<br>pwd:EsWs@@CERT|
+| 1/2 | user:root<br>pwd:OpenWrt@@2022 |
