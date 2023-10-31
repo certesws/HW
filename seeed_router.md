@@ -12,5 +12,7 @@ router IP : 192.168.2.1
 # issues
 * [issue] configuration is not applied
 * [cause] corruption in the file system, which makes the file system read-only [to] `/dev/mmcblk0p2 on / type ext4 (ro,noatime)`
-![image](https://github.com/certesws/HW/assets/23504514/304c70cd-a63a-4493-9509-f607b33b672d)
+* ![image](https://github.com/certesws/HW/assets/23504514/304c70cd-a63a-4493-9509-f607b33b672d)
+* this is what it suppose to be
+* ![image](https://github.com/certesws/HW/assets/23504514/fde70eea-3abd-4d58-92bd-88878270f264)
 * [solution] I updated the firmware of the router
